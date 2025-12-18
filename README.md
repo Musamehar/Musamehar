@@ -3,7 +3,7 @@
 🎓 **BS Artificial Intelligence Student** at **Air University Islamabad**  
 💡 Passionate about **AI, Machine Learning, Computer Vision, and Software Engineering**
 
-I enjoy building practical and logic-driven projects — from **computer vision applications** and **recommendation systems** to **game AI and system-level development**. I focus on writing clean, scalable code and continuously improving my problem-solving skills.
+I enjoy building practical and logic-driven projects from **computer vision applications** and **recommendation systems** to **game AI and system-level development**. I focus on writing clean, scalable code and continuously improving my problem-solving skills.
 
 ---
 
